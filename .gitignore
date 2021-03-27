@@ -3,3 +3,13 @@
 ################################################################################
 
 /LocalizaLabsDesafios/TransferenciaBancaria/bin/Debug/netcoreapp3.1
+/LocalizaLabsDesafios/TransferenciaBancaria/obj/Debug/netcoreapp3.1
+/LocalizaLabsDesafios/TransferenciaBancaria/obj
+/LocalizaLabsDesafios/Bazinga/obj
+/LocalizaLabsDesafios/CadastroSeries/obj
+/LocalizaLabsDesafios/DIO.ComunicacaoEmPiralandia/obj
+/LocalizaLabsDesafios/Dio.CrescimentoPopulacional/bin/Debug/net5.0
+/LocalizaLabsDesafios/Dio.CrescimentoPopulacional/obj
+/LocalizaLabsDesafios/DIO.TempoDeUmEvento/obj
+/LocalizaLabsDesafios/.vs/LocalizaLabsDesafios/DesignTimeBuild
+/LocalizaLabsDesafios/.vs/LocalizaLabsDesafios/v16/.suo
